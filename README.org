@@ -1,0 +1,3 @@
+* Guile implementation and experimentation playground of the ideas in Software Design For Flexibility
+
+https://mitpress.mit.edu/9780262045490/software-design-for-flexibility/
